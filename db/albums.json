@@ -1,0 +1,38 @@
+[
+    {
+        "nome": "New Jersey",
+        "artista": "Bon Jovi",
+        "anno": 1988,
+        "immagine": "https://i.ebayimg.com/images/g/bY4AAOxywh1TGN8a/s-l640.jpg"
+    },
+    {
+        "nome": "Live at Wembley 86",
+        "artista": "Queen",
+        "anno": 1992,
+        "immagine": "https://m.media-amazon.com/images/I/71g40mlbinL._UF1000,1000_QL80_.jpg"
+    },
+    {
+        "nome": "Ten's Summoner's Tales",
+        "artista": "Sting",
+        "anno": 1993,
+        "immagine": "https://m.media-amazon.com/images/I/71kW-ZzWoKL._UF1000,1000_QL80_.jpg"
+    },
+    {
+        "nome": "Steve Gadd band",
+        "artista": "Steve Gadd band",
+        "anno": 2018,
+        "immagine": "https://m.media-amazon.com/images/I/81rIAyFN7vL._UF1000,1000_QL80_.jpg"
+    },
+    {
+        "nome": "Brave new World",
+        "artista": "Iron Maiden",
+        "anno": 2000,
+        "immagine": "https://e.snmc.io/i/1200/s/efacc0ff2610e756168afa6c94abf153/2712641"
+    },
+    {
+        "nome": "One more car, one more rider",
+        "artista": "Eric Clapton",
+        "anno": 2002,
+        "immagine": "https://m.media-amazon.com/images/I/81P4G2xWjNL._UF1000,1000_QL80_.jpg"
+    }
+]
